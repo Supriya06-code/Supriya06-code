@@ -5,7 +5,7 @@
 - 📫 How to reach me: supriyanjadhav2000@gmail.com
 
 ### Connect with me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/supriya-jadhav-4a2b8321a)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/supriya-jadhav-4a2b8321a)
 &nbsp;
 
 ### Language and Tools:
