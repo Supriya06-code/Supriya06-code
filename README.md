@@ -34,6 +34,7 @@
 	</table>
 </div>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supriya06-code&layout=compact)](https://github.com/Supriya06-code/github-readme-stats)
 ![Supriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supriya06-code&show_icons=true&theme=transparent)
 
