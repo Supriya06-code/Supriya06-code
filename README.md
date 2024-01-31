@@ -2,7 +2,7 @@
 
 - 👩‍🎓 I’m Senior Software Engineering Student
 - 💻 I’m currently working on Asp.net and React JS
-- 📫 How to reach me: supriyanjadhav2000@gmail.com
+- 📫 How to reach me: supriyanjadhav2000@gmail.com  ![img2](https://github.com/Supriya06-code/Supriya06-code/assets/89724019/7bd054f1-a05c-4cd0-9fcc-748186ad952e)
 
 ### Connect with me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/supriya-jadhav-4a2b8321a)
