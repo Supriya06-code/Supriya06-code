@@ -35,7 +35,7 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supriya06-code&layout=compact)](https://github.com/Supriya06-code/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supriya06-code&layout=compact)](https://github.com/Supriya06-code/Supriya06-code)
 ![Supriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supriya06-code&show_icons=true&theme=transparent)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Supriya06-code&theme=transparent&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
