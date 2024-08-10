@@ -39,4 +39,6 @@
 		</tr>
 	</table>
 </div>
+![Alt text](URL)
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Supriya06-code&theme=solarized-dark)
 
