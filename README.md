@@ -7,7 +7,9 @@
 ![img3](https://github.com/Supriya06-code/Supriya06-code/assets/89724019/f0ef0701-9ae0-4ecf-a512-115489c2937b)
                                                         
 ### Connect with me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/supriya-jadhav06)
+<a href="https://www.linkedin.com/in/supriya-jadhav06">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 20px; height: 20px;"/>
+</a> LinkedIn
 &nbsp;
 
 ### Language and Tools:
