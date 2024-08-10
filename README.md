@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 👩‍🎓 I’m Senior Software Engineering Student!
-- 💻 I’m currently working on Asp.net and React JS
+- 👩‍🎓 I’m Software Engineering Student!
+- 💻 I’m currently working on Asp.net MVC and React JS
 - 📫 How to reach me: supriyanjadhav2000@gmail.com
                                                                                                                      
 ![img3](https://github.com/Supriya06-code/Supriya06-code/assets/89724019/f0ef0701-9ae0-4ecf-a512-115489c2937b)
