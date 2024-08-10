@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍🎓 I’m Software Engineering Student!
+- 👩‍🎓 I’m a Computer Science Engineering student and aspiring Software Engineer!
 - 💻 I’m currently working on Asp.net MVC and React JS
 - 📫 How to reach me: supriyanjadhav2000@gmail.com
                                                                                                                      
